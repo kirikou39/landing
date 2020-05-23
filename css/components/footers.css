@@ -1,0 +1,21 @@
+.footer {
+  background-color: rgba(250, 250, 250, 1);
+  background-size: cover;
+  background-position: center;
+  margin-top: 30px;
+  padding: 75px 0;
+  text-align: center;
+}
+
+.footer .social {
+  font-size: 32px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: rgba(206, 86, 85, 1);
+}
+
+.footer a:hover {
+  color: rgba(156, 36, 35, 1);
+}
